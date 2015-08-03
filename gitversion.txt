@@ -2,3 +2,5 @@
 //Author VW
 Git is a version control software
 Git is a free software
+master or slave
+we can finish the servers
